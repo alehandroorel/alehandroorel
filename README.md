@@ -1,4 +1,4 @@
-## Hi there 👋
+![Leetcode Stats](https://leetcard.jacoblin.cool/alehandroorel?theme=dark&ext=activity)
 
 <!--
 **alehandroorel/alehandroorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
