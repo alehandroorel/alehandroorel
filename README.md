@@ -1,3 +1,6 @@
+## Competetive
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/alehandro.svg)](https://codeforces.com/profile/alehandro) <br />
+## Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alehandroorel?theme=dark&ext=activity)
 
 <!--
