@@ -1,7 +1,7 @@
 ## Competetive
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/alehandro.svg)](https://codeforces.com/profile/alehandro) <br />
 ## Leetcode:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/alehandroorel?theme=dark&ext=activity)](https://leetcode.com/u/alehandroorel/) 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/alehandroorel?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/u/alehandroorel/) 
 
 <!--
 **alehandroorel/alehandroorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
