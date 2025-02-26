@@ -1,5 +1,5 @@
 ## Competetive
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/alehandro.svg)](https://codeforces.com/profile/alehandro) <br />
+Позор - [![Codeforces](https://badges.joonhyung.xyz/codeforces/alehandro.svg)](https://codeforces.com/profile/alehandro) <br />
 ## Leetcode:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alehandroorel?theme=dark&font=ABeeZee&ext=heatmap)](https://leetcode.com/u/alehandroorel/) 
 
